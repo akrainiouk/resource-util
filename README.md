@@ -21,4 +21,5 @@ for {
 }
 ```
 
-2. 
+2. Turning arbitrary class into AutoCloseable by providing an explicit cleanup.
+See: [FileUtil.scala](src/main/scala/com/agk/resource/FileUtil.scala)
